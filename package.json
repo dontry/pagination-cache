@@ -5,12 +5,14 @@
   "dependencies": {
     "@material-ui/core": "^4.2.1",
     "axios": "^0.19.0",
+    "normalizr": "^3.4.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-redux": "^7.1.0",
     "react-scripts": "3.0.1",
     "redux": "^4.0.4",
-    "redux-saga": "^1.0.5"
+    "redux-saga": "^1.0.5",
+    "reselect": "^4.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -38,6 +40,8 @@
     ]
   },
   "devDependencies": {
+    "@testing-library/jest-dom": "^4.0.0",
+    "@testing-library/react": "^8.0.5",
     "commitizen": "^4.0.3",
     "cz-conventional-changelog": "^3.0.1",
     "eslint-config-prettier": "^6.0.0",
@@ -57,5 +61,23 @@
     "hooks": {
       "pre-push": "npm test"
     }
+  },
+  "jest": {
+    "collectCoverageFrom": [
+      "src/**/*.{js,jsx,ts,tsx}",
+      "!<rootDir>/node_modules/",
+      "!<rootDir>/path/to/dir/"
+    ],
+    "coverageThreshold": {
+      "global": {
+        "branches": 60,
+        "functions": 80,
+        "lines": 50,
+        "statements": 50
+      }
+    },
+    "coverageReporters": [
+      "text"
+    ]
   }
 }
