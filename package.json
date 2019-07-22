@@ -18,6 +18,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
+    "test:coverage": "jest test --coverage",
     "lint": "eslint src",
     "prettier": "./node_modules/.bin/prettier  \"**/*.+(js|jsx|json|yml|yaml|css|less|scss|ts|tsx|md|mdx|graphql|vue)\"",
     "format": "npm run prettier -- --write",
@@ -59,7 +60,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-push": "npm test"
+      "pre-push": "npm run validate-staged"
     }
   },
   "jest": {

@@ -7,7 +7,6 @@ import CardContent from "@material-ui/core/CardContent";
 import Typography from "@material-ui/core/Typography";
 import Button from "@material-ui/core/Button";
 
-
 const useStyles = makeStyles({
   card: {
     minWidth: 300
@@ -21,9 +20,9 @@ const Card = ({ data = {}, openCard }) => {
   const { card, title } = useStyles();
   const { id, state, number, application, shortDescription, assignee } = data;
 
-  const handleClick =  () => {
-    openCard(id)
-  }
+  const handleClick = () => {
+    openCard(id);
+  };
   return (
     <MuiCard className={card}>
       <CardContent>
@@ -36,22 +35,25 @@ const Card = ({ data = {}, openCard }) => {
         <Typography variant="body2">{shortDescription}</Typography>
       </CardContent>
       <CardActions>
-        <Button data-testid="learn-more"  size="small" onClick={handleClick}>Learn more</Button>
+        <Button data-testid="learn-more" size="small" onClick={handleClick}>
+          Learn more
+        </Button>
       </CardActions>
     </MuiCard>
   );
+};
 
+export const CoreDataType = {
+  id: PropTypes.string,
+  state: PropTypes.string,
+  number: PropTypes.string,
+  application: PropTypes.string,
+  shortDescription: PropTypes.string,
+  assignee: PropTypes.string
 };
 
 Card.propTypes = {
-  data: PropTypes.shape({
-    id: PropTypes.string,
-    state: PropTypes.string,
-    number: PropTypes.string,
-    application: PropTypes.string,
-    shortDescription: PropTypes.string,
-    assignee: PropTypes.string
-  }),
+  data: PropTypes.shape(CoreDataType),
   openCard: PropTypes.func.isRequired
 };
 
