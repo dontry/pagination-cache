@@ -28,4 +28,17 @@ export const selectTotalCount = state => state.cards.totalCount;
 
 export const selectIsFetching = state => state.cards.isFetching;
 
+//  loading status is true when the client is fetching and it reaches the latest page
+export const selectIsLoading = createSelector(
+  selectCachedCount,
+  selectPageIndex,
+  selectIsFetching,
+  (cachedCount, pageIndex, isFetching) => {
+    console.log(`selectIsLoading: ${cachedCount}, ${pageIndex}, ${isFetching}`);
+    const hasReachedLatestPage =
+      cachedCount <= (pageIndex + 1) * CARD_COUNT_PER_PAGE;
+    return isFetching && hasReachedLatestPage;
+  }
+);
+
 export const selectErrorMessage = state => state.cards.errorMessage;

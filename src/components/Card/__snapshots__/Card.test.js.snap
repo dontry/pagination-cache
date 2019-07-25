@@ -18,13 +18,13 @@ exports[`Card Component renders Card with core data 1`] = `
       INCXXXXX
     </h5>
     <p
-      class="MuiTypography-root card-subheading MuiTypography-body1"
+      class="MuiTypography-root card-subheading MuiTypography-body2"
     >
       Application: 
       System
     </p>
     <p
-      class="MuiTypography-root card-subheading MuiTypography-body1 MuiTypography-gutterBottom"
+      class="MuiTypography-root card-subheading MuiTypography-body2 MuiTypography-gutterBottom"
     >
       Assignee: 
       John Doe

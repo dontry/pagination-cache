@@ -2,14 +2,14 @@
 
 exports[`Drawer Component renders Drawer with service data 1`] = `
 <div
-  class="PrivateSwipeArea-root-111 PrivateSwipeArea-anchorRight-113"
+  class="PrivateSwipeArea-root-110 PrivateSwipeArea-anchorRight-112"
   style="width: 20px;"
 />
 `;
 
 exports[`DrawerContent Component renders Drawer with service data 1`] = `
 <div
-  class="makeStyles-contentWrapper-117"
+  class="makeStyles-contentWrapper-115"
 >
   <h2
     class="MuiTypography-root MuiTypography-h2"
@@ -17,15 +17,15 @@ exports[`DrawerContent Component renders Drawer with service data 1`] = `
     INCXXXX
   </h2>
   <div
-    class="makeStyles-infoItemWrapper-118"
+    class="makeStyles-infoItemWrapper-116"
   >
     <span
-      class="makeStyles-infoItemLabel-119"
+      class="makeStyles-infoItemLabel-117"
     >
       parent
     </span>
     <div
-      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-118"
     >
       <div
         class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
@@ -40,15 +40,15 @@ exports[`DrawerContent Component renders Drawer with service data 1`] = `
     </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-118"
+    class="makeStyles-infoItemWrapper-116"
   >
     <span
-      class="makeStyles-infoItemLabel-119"
+      class="makeStyles-infoItemLabel-117"
     >
       made_sla
     </span>
     <div
-      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-118"
     >
       <div
         class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
@@ -63,15 +63,15 @@ exports[`DrawerContent Component renders Drawer with service data 1`] = `
     </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-118"
+    class="makeStyles-infoItemWrapper-116"
   >
     <span
-      class="makeStyles-infoItemLabel-119"
+      class="makeStyles-infoItemLabel-117"
     >
       caused_by
     </span>
     <div
-      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-118"
     >
       <div
         class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
@@ -86,15 +86,15 @@ exports[`DrawerContent Component renders Drawer with service data 1`] = `
     </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-118"
+    class="makeStyles-infoItemWrapper-116"
   >
     <span
-      class="makeStyles-infoItemLabel-119"
+      class="makeStyles-infoItemLabel-117"
     >
       watch_list
     </span>
     <div
-      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-118"
     >
       <div
         class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
@@ -109,15 +109,15 @@ exports[`DrawerContent Component renders Drawer with service data 1`] = `
     </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-118"
+    class="makeStyles-infoItemWrapper-116"
   >
     <span
-      class="makeStyles-infoItemLabel-119"
+      class="makeStyles-infoItemLabel-117"
     >
       upon_reject
     </span>
     <div
-      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-118"
     >
       <div
         class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
@@ -132,15 +132,15 @@ exports[`DrawerContent Component renders Drawer with service data 1`] = `
     </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-118"
+    class="makeStyles-infoItemWrapper-116"
   >
     <span
-      class="makeStyles-infoItemLabel-119"
+      class="makeStyles-infoItemLabel-117"
     >
       child_incidents
     </span>
     <div
-      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-118"
     >
       <div
         class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
@@ -155,15 +155,15 @@ exports[`DrawerContent Component renders Drawer with service data 1`] = `
     </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-118"
+    class="makeStyles-infoItemWrapper-116"
   >
     <span
-      class="makeStyles-infoItemLabel-119"
+      class="makeStyles-infoItemLabel-117"
     >
       hold_reason
     </span>
     <div
-      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-118"
     >
       <div
         class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
@@ -178,15 +178,15 @@ exports[`DrawerContent Component renders Drawer with service data 1`] = `
     </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-118"
+    class="makeStyles-infoItemWrapper-116"
   >
     <span
-      class="makeStyles-infoItemLabel-119"
+      class="makeStyles-infoItemLabel-117"
     >
       approval_history
     </span>
     <div
-      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-118"
     >
       <div
         class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
@@ -201,15 +201,15 @@ exports[`DrawerContent Component renders Drawer with service data 1`] = `
     </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-118"
+    class="makeStyles-infoItemWrapper-116"
   >
     <span
-      class="makeStyles-infoItemLabel-119"
+      class="makeStyles-infoItemLabel-117"
     >
       resolved_by
     </span>
     <div
-      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-118"
     >
       <div
         class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
@@ -224,15 +224,15 @@ exports[`DrawerContent Component renders Drawer with service data 1`] = `
     </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-118"
+    class="makeStyles-infoItemWrapper-116"
   >
     <span
-      class="makeStyles-infoItemLabel-119"
+      class="makeStyles-infoItemLabel-117"
     >
       sys_updated_by
     </span>
     <div
-      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-118"
     >
       <div
         class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
@@ -247,15 +247,15 @@ exports[`DrawerContent Component renders Drawer with service data 1`] = `
     </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-118"
+    class="makeStyles-infoItemWrapper-116"
   >
     <span
-      class="makeStyles-infoItemLabel-119"
+      class="makeStyles-infoItemLabel-117"
     >
       opened_by
     </span>
     <div
-      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-118"
     >
       <div
         class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
@@ -270,15 +270,15 @@ exports[`DrawerContent Component renders Drawer with service data 1`] = `
     </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-118"
+    class="makeStyles-infoItemWrapper-116"
   >
     <span
-      class="makeStyles-infoItemLabel-119"
+      class="makeStyles-infoItemLabel-117"
     >
       user_input
     </span>
     <div
-      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-118"
     >
       <div
         class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
@@ -293,15 +293,15 @@ exports[`DrawerContent Component renders Drawer with service data 1`] = `
     </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-118"
+    class="makeStyles-infoItemWrapper-116"
   >
     <span
-      class="makeStyles-infoItemLabel-119"
+      class="makeStyles-infoItemLabel-117"
     >
       sys_created_on
     </span>
     <div
-      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-118"
     >
       <div
         class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
@@ -316,15 +316,15 @@ exports[`DrawerContent Component renders Drawer with service data 1`] = `
     </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-118"
+    class="makeStyles-infoItemWrapper-116"
   >
     <span
-      class="makeStyles-infoItemLabel-119"
+      class="makeStyles-infoItemLabel-117"
     >
       sys_domain
     </span>
     <div
-      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-118"
     >
       <div
         class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
@@ -339,15 +339,15 @@ exports[`DrawerContent Component renders Drawer with service data 1`] = `
     </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-118"
+    class="makeStyles-infoItemWrapper-116"
   >
     <span
-      class="makeStyles-infoItemLabel-119"
+      class="makeStyles-infoItemLabel-117"
     >
       state
     </span>
     <div
-      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-118"
     >
       <div
         class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
@@ -362,15 +362,15 @@ exports[`DrawerContent Component renders Drawer with service data 1`] = `
     </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-118"
+    class="makeStyles-infoItemWrapper-116"
   >
     <span
-      class="makeStyles-infoItemLabel-119"
+      class="makeStyles-infoItemLabel-117"
     >
       sys_created_by
     </span>
     <div
-      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-118"
     >
       <div
         class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
@@ -385,15 +385,15 @@ exports[`DrawerContent Component renders Drawer with service data 1`] = `
     </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-118"
+    class="makeStyles-infoItemWrapper-116"
   >
     <span
-      class="makeStyles-infoItemLabel-119"
+      class="makeStyles-infoItemLabel-117"
     >
       knowledge
     </span>
     <div
-      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-118"
     >
       <div
         class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
@@ -408,15 +408,15 @@ exports[`DrawerContent Component renders Drawer with service data 1`] = `
     </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-118"
+    class="makeStyles-infoItemWrapper-116"
   >
     <span
-      class="makeStyles-infoItemLabel-119"
+      class="makeStyles-infoItemLabel-117"
     >
       order
     </span>
     <div
-      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-118"
     >
       <div
         class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
@@ -431,15 +431,15 @@ exports[`DrawerContent Component renders Drawer with service data 1`] = `
     </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-118"
+    class="makeStyles-infoItemWrapper-116"
   >
     <span
-      class="makeStyles-infoItemLabel-119"
+      class="makeStyles-infoItemLabel-117"
     >
       calendar_stc
     </span>
     <div
-      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-118"
     >
       <div
         class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
@@ -454,15 +454,15 @@ exports[`DrawerContent Component renders Drawer with service data 1`] = `
     </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-118"
+    class="makeStyles-infoItemWrapper-116"
   >
     <span
-      class="makeStyles-infoItemLabel-119"
+      class="makeStyles-infoItemLabel-117"
     >
       toggled_at
     </span>
     <div
-      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-118"
     >
       <div
         class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
@@ -477,15 +477,15 @@ exports[`DrawerContent Component renders Drawer with service data 1`] = `
     </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-118"
+    class="makeStyles-infoItemWrapper-116"
   >
     <span
-      class="makeStyles-infoItemLabel-119"
+      class="makeStyles-infoItemLabel-117"
     >
       cmdb_ci
     </span>
     <div
-      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-118"
     >
       <div
         class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
@@ -500,15 +500,15 @@ exports[`DrawerContent Component renders Drawer with service data 1`] = `
     </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-118"
+    class="makeStyles-infoItemWrapper-116"
   >
     <span
-      class="makeStyles-infoItemLabel-119"
+      class="makeStyles-infoItemLabel-117"
     >
       delivery_plan
     </span>
     <div
-      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-118"
     >
       <div
         class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
@@ -523,15 +523,15 @@ exports[`DrawerContent Component renders Drawer with service data 1`] = `
     </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-118"
+    class="makeStyles-infoItemWrapper-116"
   >
     <span
-      class="makeStyles-infoItemLabel-119"
+      class="makeStyles-infoItemLabel-117"
     >
       impact
     </span>
     <div
-      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-118"
     >
       <div
         class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
@@ -546,15 +546,15 @@ exports[`DrawerContent Component renders Drawer with service data 1`] = `
     </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-118"
+    class="makeStyles-infoItemWrapper-116"
   >
     <span
-      class="makeStyles-infoItemLabel-119"
+      class="makeStyles-infoItemLabel-117"
     >
       active
     </span>
     <div
-      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-118"
     >
       <div
         class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
@@ -569,15 +569,15 @@ exports[`DrawerContent Component renders Drawer with service data 1`] = `
     </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-118"
+    class="makeStyles-infoItemWrapper-116"
   >
     <span
-      class="makeStyles-infoItemLabel-119"
+      class="makeStyles-infoItemLabel-117"
     >
       work_notes_list
     </span>
     <div
-      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-118"
     >
       <div
         class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
@@ -592,15 +592,15 @@ exports[`DrawerContent Component renders Drawer with service data 1`] = `
     </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-118"
+    class="makeStyles-infoItemWrapper-116"
   >
     <span
-      class="makeStyles-infoItemLabel-119"
+      class="makeStyles-infoItemLabel-117"
     >
       business_service
     </span>
     <div
-      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-118"
     >
       <div
         class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
@@ -615,15 +615,15 @@ exports[`DrawerContent Component renders Drawer with service data 1`] = `
     </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-118"
+    class="makeStyles-infoItemWrapper-116"
   >
     <span
-      class="makeStyles-infoItemLabel-119"
+      class="makeStyles-infoItemLabel-117"
     >
       priority
     </span>
     <div
-      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-118"
     >
       <div
         class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
@@ -638,15 +638,15 @@ exports[`DrawerContent Component renders Drawer with service data 1`] = `
     </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-118"
+    class="makeStyles-infoItemWrapper-116"
   >
     <span
-      class="makeStyles-infoItemLabel-119"
+      class="makeStyles-infoItemLabel-117"
     >
       sys_domain_path
     </span>
     <div
-      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-118"
     >
       <div
         class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
@@ -661,15 +661,15 @@ exports[`DrawerContent Component renders Drawer with service data 1`] = `
     </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-118"
+    class="makeStyles-infoItemWrapper-116"
   >
     <span
-      class="makeStyles-infoItemLabel-119"
+      class="makeStyles-infoItemLabel-117"
     >
       rfc
     </span>
     <div
-      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-118"
     >
       <div
         class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
@@ -684,15 +684,15 @@ exports[`DrawerContent Component renders Drawer with service data 1`] = `
     </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-118"
+    class="makeStyles-infoItemWrapper-116"
   >
     <span
-      class="makeStyles-infoItemLabel-119"
+      class="makeStyles-infoItemLabel-117"
     >
       time_worked
     </span>
     <div
-      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-118"
     >
       <div
         class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
@@ -707,15 +707,15 @@ exports[`DrawerContent Component renders Drawer with service data 1`] = `
     </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-118"
+    class="makeStyles-infoItemWrapper-116"
   >
     <span
-      class="makeStyles-infoItemLabel-119"
+      class="makeStyles-infoItemLabel-117"
     >
       expected_start
     </span>
     <div
-      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-118"
     >
       <div
         class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
@@ -730,15 +730,15 @@ exports[`DrawerContent Component renders Drawer with service data 1`] = `
     </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-118"
+    class="makeStyles-infoItemWrapper-116"
   >
     <span
-      class="makeStyles-infoItemLabel-119"
+      class="makeStyles-infoItemLabel-117"
     >
       opened_at
     </span>
     <div
-      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-118"
     >
       <div
         class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
@@ -753,15 +753,15 @@ exports[`DrawerContent Component renders Drawer with service data 1`] = `
     </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-118"
+    class="makeStyles-infoItemWrapper-116"
   >
     <span
-      class="makeStyles-infoItemLabel-119"
+      class="makeStyles-infoItemLabel-117"
     >
       business_duration
     </span>
     <div
-      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-118"
     >
       <div
         class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
@@ -776,15 +776,15 @@ exports[`DrawerContent Component renders Drawer with service data 1`] = `
     </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-118"
+    class="makeStyles-infoItemWrapper-116"
   >
     <span
-      class="makeStyles-infoItemLabel-119"
+      class="makeStyles-infoItemLabel-117"
     >
       group_list
     </span>
     <div
-      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-118"
     >
       <div
         class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
@@ -799,15 +799,15 @@ exports[`DrawerContent Component renders Drawer with service data 1`] = `
     </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-118"
+    class="makeStyles-infoItemWrapper-116"
   >
     <span
-      class="makeStyles-infoItemLabel-119"
+      class="makeStyles-infoItemLabel-117"
     >
       work_end
     </span>
     <div
-      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-118"
     >
       <div
         class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
@@ -822,15 +822,15 @@ exports[`DrawerContent Component renders Drawer with service data 1`] = `
     </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-118"
+    class="makeStyles-infoItemWrapper-116"
   >
     <span
-      class="makeStyles-infoItemLabel-119"
+      class="makeStyles-infoItemLabel-117"
     >
       caller_id
     </span>
     <div
-      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-118"
     >
       <div
         class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
@@ -845,15 +845,15 @@ exports[`DrawerContent Component renders Drawer with service data 1`] = `
     </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-118"
+    class="makeStyles-infoItemWrapper-116"
   >
     <span
-      class="makeStyles-infoItemLabel-119"
+      class="makeStyles-infoItemLabel-117"
     >
       reopened_time
     </span>
     <div
-      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-118"
     >
       <div
         class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
@@ -868,15 +868,15 @@ exports[`DrawerContent Component renders Drawer with service data 1`] = `
     </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-118"
+    class="makeStyles-infoItemWrapper-116"
   >
     <span
-      class="makeStyles-infoItemLabel-119"
+      class="makeStyles-infoItemLabel-117"
     >
       resolved_at
     </span>
     <div
-      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-118"
     >
       <div
         class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
@@ -891,15 +891,15 @@ exports[`DrawerContent Component renders Drawer with service data 1`] = `
     </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-118"
+    class="makeStyles-infoItemWrapper-116"
   >
     <span
-      class="makeStyles-infoItemLabel-119"
+      class="makeStyles-infoItemLabel-117"
     >
       approval_set
     </span>
     <div
-      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-118"
     >
       <div
         class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
@@ -914,15 +914,15 @@ exports[`DrawerContent Component renders Drawer with service data 1`] = `
     </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-118"
+    class="makeStyles-infoItemWrapper-116"
   >
     <span
-      class="makeStyles-infoItemLabel-119"
+      class="makeStyles-infoItemLabel-117"
     >
       subcategory
     </span>
     <div
-      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-118"
     >
       <div
         class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
@@ -937,15 +937,15 @@ exports[`DrawerContent Component renders Drawer with service data 1`] = `
     </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-118"
+    class="makeStyles-infoItemWrapper-116"
   >
     <span
-      class="makeStyles-infoItemLabel-119"
+      class="makeStyles-infoItemLabel-117"
     >
       work_notes
     </span>
     <div
-      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-118"
     >
       <div
         class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
@@ -963,15 +963,15 @@ test
     </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-118"
+    class="makeStyles-infoItemWrapper-116"
   >
     <span
-      class="makeStyles-infoItemLabel-119"
+      class="makeStyles-infoItemLabel-117"
     >
       toggle_code
     </span>
     <div
-      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-118"
     >
       <div
         class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
@@ -986,15 +986,15 @@ test
     </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-118"
+    class="makeStyles-infoItemWrapper-116"
   >
     <span
-      class="makeStyles-infoItemLabel-119"
+      class="makeStyles-infoItemLabel-117"
     >
       correlation_display
     </span>
     <div
-      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-118"
     >
       <div
         class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
@@ -1009,15 +1009,15 @@ test
     </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-118"
+    class="makeStyles-infoItemWrapper-116"
   >
     <span
-      class="makeStyles-infoItemLabel-119"
+      class="makeStyles-infoItemLabel-117"
     >
       delivery_task
     </span>
     <div
-      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-118"
     >
       <div
         class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
@@ -1032,15 +1032,15 @@ test
     </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-118"
+    class="makeStyles-infoItemWrapper-116"
   >
     <span
-      class="makeStyles-infoItemLabel-119"
+      class="makeStyles-infoItemLabel-117"
     >
       work_start
     </span>
     <div
-      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-118"
     >
       <div
         class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
@@ -1055,15 +1055,15 @@ test
     </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-118"
+    class="makeStyles-infoItemWrapper-116"
   >
     <span
-      class="makeStyles-infoItemLabel-119"
+      class="makeStyles-infoItemLabel-117"
     >
       additional_assignee_list
     </span>
     <div
-      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-118"
     >
       <div
         class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
@@ -1078,15 +1078,15 @@ test
     </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-118"
+    class="makeStyles-infoItemWrapper-116"
   >
     <span
-      class="makeStyles-infoItemLabel-119"
+      class="makeStyles-infoItemLabel-117"
     >
       business_stc
     </span>
     <div
-      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-118"
     >
       <div
         class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
@@ -1101,15 +1101,15 @@ test
     </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-118"
+    class="makeStyles-infoItemWrapper-116"
   >
     <span
-      class="makeStyles-infoItemLabel-119"
+      class="makeStyles-infoItemLabel-117"
     >
       description
     </span>
     <div
-      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-118"
     >
       <div
         class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
@@ -1124,15 +1124,15 @@ test
     </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-118"
+    class="makeStyles-infoItemWrapper-116"
   >
     <span
-      class="makeStyles-infoItemLabel-119"
+      class="makeStyles-infoItemLabel-117"
     >
       calendar_duration
     </span>
     <div
-      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-118"
     >
       <div
         class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
@@ -1147,15 +1147,15 @@ test
     </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-118"
+    class="makeStyles-infoItemWrapper-116"
   >
     <span
-      class="makeStyles-infoItemLabel-119"
+      class="makeStyles-infoItemLabel-117"
     >
       toggle_notes
     </span>
     <div
-      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-118"
     >
       <div
         class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
@@ -1170,15 +1170,15 @@ test
     </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-118"
+    class="makeStyles-infoItemWrapper-116"
   >
     <span
-      class="makeStyles-infoItemLabel-119"
+      class="makeStyles-infoItemLabel-117"
     >
       notify
     </span>
     <div
-      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-118"
     >
       <div
         class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
@@ -1193,15 +1193,15 @@ test
     </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-118"
+    class="makeStyles-infoItemWrapper-116"
   >
     <span
-      class="makeStyles-infoItemLabel-119"
+      class="makeStyles-infoItemLabel-117"
     >
       sys_class_name
     </span>
     <div
-      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-118"
     >
       <div
         class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
@@ -1216,15 +1216,15 @@ test
     </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-118"
+    class="makeStyles-infoItemWrapper-116"
   >
     <span
-      class="makeStyles-infoItemLabel-119"
+      class="makeStyles-infoItemLabel-117"
     >
       toggled_by
     </span>
     <div
-      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-118"
     >
       <div
         class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
@@ -1239,15 +1239,15 @@ test
     </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-118"
+    class="makeStyles-infoItemWrapper-116"
   >
     <span
-      class="makeStyles-infoItemLabel-119"
+      class="makeStyles-infoItemLabel-117"
     >
       follow_up
     </span>
     <div
-      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-118"
     >
       <div
         class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
@@ -1262,15 +1262,15 @@ test
     </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-118"
+    class="makeStyles-infoItemWrapper-116"
   >
     <span
-      class="makeStyles-infoItemLabel-119"
+      class="makeStyles-infoItemLabel-117"
     >
       parent_incident
     </span>
     <div
-      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-118"
     >
       <div
         class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
@@ -1285,15 +1285,15 @@ test
     </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-118"
+    class="makeStyles-infoItemWrapper-116"
   >
     <span
-      class="makeStyles-infoItemLabel-119"
+      class="makeStyles-infoItemLabel-117"
     >
       contact_type
     </span>
     <div
-      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-118"
     >
       <div
         class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
@@ -1308,15 +1308,15 @@ test
     </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-118"
+    class="makeStyles-infoItemWrapper-116"
   >
     <span
-      class="makeStyles-infoItemLabel-119"
+      class="makeStyles-infoItemLabel-117"
     >
       reopened_by
     </span>
     <div
-      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-118"
     >
       <div
         class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
@@ -1331,15 +1331,15 @@ test
     </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-118"
+    class="makeStyles-infoItemWrapper-116"
   >
     <span
-      class="makeStyles-infoItemLabel-119"
+      class="makeStyles-infoItemLabel-117"
     >
       urgency
     </span>
     <div
-      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-118"
     >
       <div
         class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
@@ -1354,15 +1354,15 @@ test
     </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-118"
+    class="makeStyles-infoItemWrapper-116"
   >
     <span
-      class="makeStyles-infoItemLabel-119"
+      class="makeStyles-infoItemLabel-117"
     >
       problem_id
     </span>
     <div
-      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-118"
     >
       <div
         class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
@@ -1377,15 +1377,15 @@ test
     </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-118"
+    class="makeStyles-infoItemWrapper-116"
   >
     <span
-      class="makeStyles-infoItemLabel-119"
+      class="makeStyles-infoItemLabel-117"
     >
       company
     </span>
     <div
-      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-118"
     >
       <div
         class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
@@ -1400,15 +1400,15 @@ test
     </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-118"
+    class="makeStyles-infoItemWrapper-116"
   >
     <span
-      class="makeStyles-infoItemLabel-119"
+      class="makeStyles-infoItemLabel-117"
     >
       reassignment_count
     </span>
     <div
-      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-118"
     >
       <div
         class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
@@ -1423,15 +1423,15 @@ test
     </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-118"
+    class="makeStyles-infoItemWrapper-116"
   >
     <span
-      class="makeStyles-infoItemLabel-119"
+      class="makeStyles-infoItemLabel-117"
     >
       activity_due
     </span>
     <div
-      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-118"
     >
       <div
         class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
@@ -1446,15 +1446,15 @@ test
     </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-118"
+    class="makeStyles-infoItemWrapper-116"
   >
     <span
-      class="makeStyles-infoItemLabel-119"
+      class="makeStyles-infoItemLabel-117"
     >
       severity
     </span>
     <div
-      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-118"
     >
       <div
         class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
@@ -1469,15 +1469,15 @@ test
     </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-118"
+    class="makeStyles-infoItemWrapper-116"
   >
     <span
-      class="makeStyles-infoItemLabel-119"
+      class="makeStyles-infoItemLabel-117"
     >
       comments
     </span>
     <div
-      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-118"
     >
       <div
         class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
@@ -1492,15 +1492,15 @@ test
     </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-118"
+    class="makeStyles-infoItemWrapper-116"
   >
     <span
-      class="makeStyles-infoItemLabel-119"
+      class="makeStyles-infoItemLabel-117"
     >
       approval
     </span>
     <div
-      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-118"
     >
       <div
         class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
@@ -1515,15 +1515,15 @@ test
     </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-118"
+    class="makeStyles-infoItemWrapper-116"
   >
     <span
-      class="makeStyles-infoItemLabel-119"
+      class="makeStyles-infoItemLabel-117"
     >
       sla_due
     </span>
     <div
-      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-118"
     >
       <div
         class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
@@ -1538,15 +1538,15 @@ test
     </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-118"
+    class="makeStyles-infoItemWrapper-116"
   >
     <span
-      class="makeStyles-infoItemLabel-119"
+      class="makeStyles-infoItemLabel-117"
     >
       comments_and_work_notes
     </span>
     <div
-      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-118"
     >
       <div
         class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
@@ -1564,15 +1564,15 @@ test
     </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-118"
+    class="makeStyles-infoItemWrapper-116"
   >
     <span
-      class="makeStyles-infoItemLabel-119"
+      class="makeStyles-infoItemLabel-117"
     >
       due_date
     </span>
     <div
-      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-118"
     >
       <div
         class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
@@ -1587,15 +1587,15 @@ test
     </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-118"
+    class="makeStyles-infoItemWrapper-116"
   >
     <span
-      class="makeStyles-infoItemLabel-119"
+      class="makeStyles-infoItemLabel-117"
     >
       sys_mod_count
     </span>
     <div
-      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-118"
     >
       <div
         class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
@@ -1610,15 +1610,15 @@ test
     </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-118"
+    class="makeStyles-infoItemWrapper-116"
   >
     <span
-      class="makeStyles-infoItemLabel-119"
+      class="makeStyles-infoItemLabel-117"
     >
       reopen_count
     </span>
     <div
-      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-118"
     >
       <div
         class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
@@ -1633,15 +1633,15 @@ test
     </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-118"
+    class="makeStyles-infoItemWrapper-116"
   >
     <span
-      class="makeStyles-infoItemLabel-119"
+      class="makeStyles-infoItemLabel-117"
     >
       sys_tags
     </span>
     <div
-      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-118"
     >
       <div
         class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
@@ -1656,15 +1656,15 @@ test
     </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-118"
+    class="makeStyles-infoItemWrapper-116"
   >
     <span
-      class="makeStyles-infoItemLabel-119"
+      class="makeStyles-infoItemLabel-117"
     >
       escalation
     </span>
     <div
-      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-118"
     >
       <div
         class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
@@ -1679,15 +1679,15 @@ test
     </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-118"
+    class="makeStyles-infoItemWrapper-116"
   >
     <span
-      class="makeStyles-infoItemLabel-119"
+      class="makeStyles-infoItemLabel-117"
     >
       upon_approval
     </span>
     <div
-      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-118"
     >
       <div
         class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
@@ -1702,15 +1702,15 @@ test
     </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-118"
+    class="makeStyles-infoItemWrapper-116"
   >
     <span
-      class="makeStyles-infoItemLabel-119"
+      class="makeStyles-infoItemLabel-117"
     >
       location
     </span>
     <div
-      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-118"
     >
       <div
         class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
@@ -1725,15 +1725,15 @@ test
     </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-118"
+    class="makeStyles-infoItemWrapper-116"
   >
     <span
-      class="makeStyles-infoItemLabel-119"
+      class="makeStyles-infoItemLabel-117"
     >
       category
     </span>
     <div
-      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-118"
     >
       <div
         class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"

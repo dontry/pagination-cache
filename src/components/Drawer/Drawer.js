@@ -6,16 +6,15 @@ import SwipeableDrawer from "@material-ui/core/SwipeableDrawer";
 import { Typography } from "@material-ui/core";
 
 const useStyles = makeStyles({
-  root: {
-    width: "40vw"
-  },
   contentWrapper: {
     width: "40vw",
+    minWidth: 500,
     padding: "16px 16px 300px 20px",
     overflowX: "hidden"
   },
   infoItemWrapper: {
     display: "flex",
+    justifyContent: "flex-start",
     marginTop: 50,
     marginBottom: 10,
     alignItems: "baseline"
@@ -43,11 +42,8 @@ const Drawer = ({ isOpen, toggle, number, data }) => {
     toggle(false);
   };
 
-  const classes = useStyles();
-
   return (
     <SwipeableDrawer
-      className={classes.root}
       anchor="right"
       open={isOpen}
       onOpen={handleOpen}

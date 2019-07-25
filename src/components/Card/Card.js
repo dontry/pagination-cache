@@ -20,10 +20,10 @@ const Card = ({ data = {}, openCard }) => {
         <Typography variant="h5" gutterBottom>
           {number}
         </Typography>
-        <Typography variant="body1" className="card-subheading">
+        <Typography variant="body2" className="card-subheading">
           Application: {application}
         </Typography>
-        <Typography variant="body1" className="card-subheading" gutterBottom>
+        <Typography variant="body2" className="card-subheading" gutterBottom>
           Assignee: {assignee}
         </Typography>
         <Typography variant="body2">{shortDescription}</Typography>
