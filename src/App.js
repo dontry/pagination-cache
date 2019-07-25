@@ -1,26 +1,46 @@
-import React from "react";
-import logo from "./logo.svg";
+import React, { Component } from "react";
 import "./App.css";
+import CardGrid from "./containers/CardGrid";
+import { fetchCards } from "./containers/CardGrid/actions";
+import Paginator from "./containers/Paginator";
+import Drawer from "./containers/Drawer";
+import { NUMBER_CARDS_PER_REQUEST } from "./utils/constants";
+import LoadingIndicator from "./components/LoadingIndicator";
+import { selectIsFetching } from "./containers/CardGrid/selectors";
+import { connect } from "react-redux";
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+class App extends Component {
+  componentDidMount() {
+    const { requestCards } = this.props;
+    requestCards(0, NUMBER_CARDS_PER_REQUEST);
+  }
+
+  render() {
+    const { isLoading } = this.props;
+    return (
+      <div className="App">
+        <div className="cardContainer">
+          {isLoading ? <LoadingIndicator /> : <CardGrid />}
+        </div>
+        <Paginator />
+        <Drawer />
+      </div>
+    );
+  }
 }
 
-export default App;
+const mapStateToProps = state => {
+  return {
+    isLoading: selectIsFetching(state)
+  };
+};
+
+const mapDispatchToProps = dispatch => ({
+  requestCards: (pageIndex, perPage) =>
+    dispatch(fetchCards({ pageIndex, perPage }))
+});
+
+export default connect(
+  mapStateToProps,
+  mapDispatchToProps
+)(App);
