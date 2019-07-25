@@ -1,23 +1,37 @@
 import React from "react";
 import PropTypes from "prop-types";
 import { makeStyles } from "@material-ui/core/styles";
+import TextField from "@material-ui/core/TextField";
 import SwipeableDrawer from "@material-ui/core/SwipeableDrawer";
 import { Typography } from "@material-ui/core";
 
 const useStyles = makeStyles({
+  root: {
+    width: "40vw"
+  },
   contentWrapper: {
-    width: 400,
-    padding: 16
+    width: "40vw",
+    padding: "16px 16px 300px 20px",
+    overflowX: "hidden"
   },
   infoItemWrapper: {
-    display: "flex"
+    display: "flex",
+    marginTop: 50,
+    marginBottom: 10,
+    alignItems: "baseline"
   },
   infoItemLabel: {
-    flexBasis: 50
+    flexShrink: 0,
+    width: 150,
+    marginRight: 20,
+    wordBreak: "break-word"
   },
   infoItemValue: {
     flexGrow: 1,
-    borderBottom: "1px solid #acacac"
+    borderBottom: "1px solid #acacac",
+    whiteSpace: "nowrap",
+    textOverflow: "ellipsis",
+    overflow: "hidden"
   }
 });
 
@@ -29,8 +43,11 @@ const Drawer = ({ isOpen, toggle, number, data }) => {
     toggle(false);
   };
 
+  const classes = useStyles();
+
   return (
     <SwipeableDrawer
+      className={classes.root}
       anchor="right"
       open={isOpen}
       onOpen={handleOpen}
@@ -70,7 +87,7 @@ export const InfoItem = ({ label, value = "" }) => {
   return (
     <div className={classes.infoItemWrapper}>
       <span className={classes.infoItemLabel}>{label}</span>
-      <span className={classes.infoItemValue}>{value}</span>
+      <TextField className={classes.infoItemValue} value={value} />
     </div>
   );
 };

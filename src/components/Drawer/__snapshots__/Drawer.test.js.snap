@@ -2,14 +2,14 @@
 
 exports[`Drawer Component renders Drawer with service data 1`] = `
 <div
-  class="PrivateSwipeArea-root-76 PrivateSwipeArea-anchorRight-78"
+  class="PrivateSwipeArea-root-111 PrivateSwipeArea-anchorRight-113"
   style="width: 20px;"
 />
 `;
 
 exports[`DrawerContent Component renders Drawer with service data 1`] = `
 <div
-  class="makeStyles-contentWrapper-81"
+  class="makeStyles-contentWrapper-117"
 >
   <h2
     class="MuiTypography-root MuiTypography-h2"
@@ -17,1000 +17,1735 @@ exports[`DrawerContent Component renders Drawer with service data 1`] = `
     INCXXXX
   </h2>
   <div
-    class="makeStyles-infoItemWrapper-82"
+    class="makeStyles-infoItemWrapper-118"
   >
     <span
-      class="makeStyles-infoItemLabel-83"
+      class="makeStyles-infoItemLabel-119"
     >
       parent
     </span>
-    <span
-      class="makeStyles-infoItemValue-84"
-    />
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+    >
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          type="text"
+          value=""
+        />
+      </div>
+    </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-82"
+    class="makeStyles-infoItemWrapper-118"
   >
     <span
-      class="makeStyles-infoItemLabel-83"
+      class="makeStyles-infoItemLabel-119"
     >
       made_sla
     </span>
-    <span
-      class="makeStyles-infoItemValue-84"
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
     >
-      false
-    </span>
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          type="text"
+          value="false"
+        />
+      </div>
+    </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-82"
+    class="makeStyles-infoItemWrapper-118"
   >
     <span
-      class="makeStyles-infoItemLabel-83"
+      class="makeStyles-infoItemLabel-119"
     >
       caused_by
     </span>
-    <span
-      class="makeStyles-infoItemValue-84"
-    />
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+    >
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          type="text"
+          value=""
+        />
+      </div>
+    </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-82"
+    class="makeStyles-infoItemWrapper-118"
   >
     <span
-      class="makeStyles-infoItemLabel-83"
+      class="makeStyles-infoItemLabel-119"
     >
       watch_list
     </span>
-    <span
-      class="makeStyles-infoItemValue-84"
-    />
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+    >
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          type="text"
+          value=""
+        />
+      </div>
+    </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-82"
+    class="makeStyles-infoItemWrapper-118"
   >
     <span
-      class="makeStyles-infoItemLabel-83"
+      class="makeStyles-infoItemLabel-119"
     >
       upon_reject
     </span>
-    <span
-      class="makeStyles-infoItemValue-84"
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
     >
-      null
-    </span>
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          type="text"
+          value="null"
+        />
+      </div>
+    </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-82"
+    class="makeStyles-infoItemWrapper-118"
   >
     <span
-      class="makeStyles-infoItemLabel-83"
+      class="makeStyles-infoItemLabel-119"
     >
       child_incidents
     </span>
-    <span
-      class="makeStyles-infoItemValue-84"
-    />
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+    >
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          type="text"
+          value=""
+        />
+      </div>
+    </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-82"
+    class="makeStyles-infoItemWrapper-118"
   >
     <span
-      class="makeStyles-infoItemLabel-83"
+      class="makeStyles-infoItemLabel-119"
     >
       hold_reason
     </span>
-    <span
-      class="makeStyles-infoItemValue-84"
-    />
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+    >
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          type="text"
+          value=""
+        />
+      </div>
+    </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-82"
+    class="makeStyles-infoItemWrapper-118"
   >
     <span
-      class="makeStyles-infoItemLabel-83"
+      class="makeStyles-infoItemLabel-119"
     >
       approval_history
     </span>
-    <span
-      class="makeStyles-infoItemValue-84"
-    />
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+    >
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          type="text"
+          value=""
+        />
+      </div>
+    </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-82"
+    class="makeStyles-infoItemWrapper-118"
   >
     <span
-      class="makeStyles-infoItemLabel-83"
+      class="makeStyles-infoItemLabel-119"
     >
       resolved_by
     </span>
-    <span
-      class="makeStyles-infoItemValue-84"
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
     >
-      System Administrator
-    </span>
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          type="text"
+          value="System Administrator"
+        />
+      </div>
+    </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-82"
+    class="makeStyles-infoItemWrapper-118"
   >
     <span
-      class="makeStyles-infoItemLabel-83"
+      class="makeStyles-infoItemLabel-119"
     >
       sys_updated_by
     </span>
-    <span
-      class="makeStyles-infoItemValue-84"
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
     >
-      system
-    </span>
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          type="text"
+          value="system"
+        />
+      </div>
+    </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-82"
+    class="makeStyles-infoItemWrapper-118"
   >
     <span
-      class="makeStyles-infoItemLabel-83"
+      class="makeStyles-infoItemLabel-119"
     >
       opened_by
     </span>
-    <span
-      class="makeStyles-infoItemValue-84"
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
     >
-      System Administrator
-    </span>
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          type="text"
+          value="System Administrator"
+        />
+      </div>
+    </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-82"
+    class="makeStyles-infoItemWrapper-118"
   >
     <span
-      class="makeStyles-infoItemLabel-83"
+      class="makeStyles-infoItemLabel-119"
     >
       user_input
     </span>
-    <span
-      class="makeStyles-infoItemValue-84"
-    />
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+    >
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          type="text"
+          value=""
+        />
+      </div>
+    </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-82"
+    class="makeStyles-infoItemWrapper-118"
   >
     <span
-      class="makeStyles-infoItemLabel-83"
+      class="makeStyles-infoItemLabel-119"
     >
       sys_created_on
     </span>
-    <span
-      class="makeStyles-infoItemValue-84"
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
     >
-      2017-07-10 15:14:01
-    </span>
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          type="text"
+          value="2017-07-10 15:14:01"
+        />
+      </div>
+    </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-82"
+    class="makeStyles-infoItemWrapper-118"
   >
     <span
-      class="makeStyles-infoItemLabel-83"
+      class="makeStyles-infoItemLabel-119"
     >
       sys_domain
     </span>
-    <span
-      class="makeStyles-infoItemValue-84"
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
     >
-      global
-    </span>
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          type="text"
+          value="global"
+        />
+      </div>
+    </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-82"
+    class="makeStyles-infoItemWrapper-118"
   >
     <span
-      class="makeStyles-infoItemLabel-83"
+      class="makeStyles-infoItemLabel-119"
     >
       state
     </span>
-    <span
-      class="makeStyles-infoItemValue-84"
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
     >
-      Closed
-    </span>
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          type="text"
+          value="toggled"
+        />
+      </div>
+    </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-82"
+    class="makeStyles-infoItemWrapper-118"
   >
     <span
-      class="makeStyles-infoItemLabel-83"
+      class="makeStyles-infoItemLabel-119"
     >
       sys_created_by
     </span>
-    <span
-      class="makeStyles-infoItemValue-84"
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
     >
-      admin
-    </span>
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          type="text"
+          value="admin"
+        />
+      </div>
+    </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-82"
+    class="makeStyles-infoItemWrapper-118"
   >
     <span
-      class="makeStyles-infoItemLabel-83"
+      class="makeStyles-infoItemLabel-119"
     >
       knowledge
     </span>
-    <span
-      class="makeStyles-infoItemValue-84"
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
     >
-      false
-    </span>
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          type="text"
+          value="false"
+        />
+      </div>
+    </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-82"
+    class="makeStyles-infoItemWrapper-118"
   >
     <span
-      class="makeStyles-infoItemLabel-83"
+      class="makeStyles-infoItemLabel-119"
     >
       order
     </span>
-    <span
-      class="makeStyles-infoItemValue-84"
-    />
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+    >
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          type="text"
+          value=""
+        />
+      </div>
+    </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-82"
+    class="makeStyles-infoItemWrapper-118"
   >
     <span
-      class="makeStyles-infoItemLabel-83"
+      class="makeStyles-infoItemLabel-119"
     >
       calendar_stc
     </span>
-    <span
-      class="makeStyles-infoItemValue-84"
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
     >
-      7,690,046
-    </span>
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          type="text"
+          value="7,690,046"
+        />
+      </div>
+    </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-82"
+    class="makeStyles-infoItemWrapper-118"
   >
     <span
-      class="makeStyles-infoItemLabel-83"
+      class="makeStyles-infoItemLabel-119"
     >
-      closed_at
+      toggled_at
     </span>
-    <span
-      class="makeStyles-infoItemValue-84"
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
     >
-      2019-05-27 12:56:17
-    </span>
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          type="text"
+          value="2019-05-27 12:56:17"
+        />
+      </div>
+    </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-82"
+    class="makeStyles-infoItemWrapper-118"
   >
     <span
-      class="makeStyles-infoItemLabel-83"
+      class="makeStyles-infoItemLabel-119"
     >
       cmdb_ci
     </span>
-    <span
-      class="makeStyles-infoItemValue-84"
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
     >
-      ApplicationServerPeopleSoft
-    </span>
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          type="text"
+          value="ApplicationServerPeopleSoft"
+        />
+      </div>
+    </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-82"
+    class="makeStyles-infoItemWrapper-118"
   >
     <span
-      class="makeStyles-infoItemLabel-83"
+      class="makeStyles-infoItemLabel-119"
     >
       delivery_plan
     </span>
-    <span
-      class="makeStyles-infoItemValue-84"
-    />
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+    >
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          type="text"
+          value=""
+        />
+      </div>
+    </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-82"
+    class="makeStyles-infoItemWrapper-118"
   >
     <span
-      class="makeStyles-infoItemLabel-83"
+      class="makeStyles-infoItemLabel-119"
     >
       impact
     </span>
-    <span
-      class="makeStyles-infoItemValue-84"
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
     >
-      1 - High
-    </span>
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          type="text"
+          value="1 - High"
+        />
+      </div>
+    </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-82"
+    class="makeStyles-infoItemWrapper-118"
   >
     <span
-      class="makeStyles-infoItemLabel-83"
+      class="makeStyles-infoItemLabel-119"
     >
       active
     </span>
-    <span
-      class="makeStyles-infoItemValue-84"
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
     >
-      false
-    </span>
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          type="text"
+          value="false"
+        />
+      </div>
+    </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-82"
+    class="makeStyles-infoItemWrapper-118"
   >
     <span
-      class="makeStyles-infoItemLabel-83"
+      class="makeStyles-infoItemLabel-119"
     >
       work_notes_list
     </span>
-    <span
-      class="makeStyles-infoItemValue-84"
-    />
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+    >
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          type="text"
+          value=""
+        />
+      </div>
+    </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-82"
+    class="makeStyles-infoItemWrapper-118"
   >
     <span
-      class="makeStyles-infoItemLabel-83"
+      class="makeStyles-infoItemLabel-119"
     >
       business_service
     </span>
-    <span
-      class="makeStyles-infoItemValue-84"
-    />
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+    >
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          type="text"
+          value=""
+        />
+      </div>
+    </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-82"
+    class="makeStyles-infoItemWrapper-118"
   >
     <span
-      class="makeStyles-infoItemLabel-83"
+      class="makeStyles-infoItemLabel-119"
     >
       priority
     </span>
-    <span
-      class="makeStyles-infoItemValue-84"
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
     >
-      1 - Critical
-    </span>
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          type="text"
+          value="1 - Critical"
+        />
+      </div>
+    </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-82"
+    class="makeStyles-infoItemWrapper-118"
   >
     <span
-      class="makeStyles-infoItemLabel-83"
+      class="makeStyles-infoItemLabel-119"
     >
       sys_domain_path
     </span>
-    <span
-      class="makeStyles-infoItemValue-84"
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
     >
-      /
-    </span>
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          type="text"
+          value="/"
+        />
+      </div>
+    </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-82"
+    class="makeStyles-infoItemWrapper-118"
   >
     <span
-      class="makeStyles-infoItemLabel-83"
+      class="makeStyles-infoItemLabel-119"
     >
       rfc
     </span>
-    <span
-      class="makeStyles-infoItemValue-84"
-    />
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+    >
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          type="text"
+          value=""
+        />
+      </div>
+    </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-82"
+    class="makeStyles-infoItemWrapper-118"
   >
     <span
-      class="makeStyles-infoItemLabel-83"
+      class="makeStyles-infoItemLabel-119"
     >
       time_worked
     </span>
-    <span
-      class="makeStyles-infoItemValue-84"
-    />
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+    >
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          type="text"
+          value=""
+        />
+      </div>
+    </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-82"
+    class="makeStyles-infoItemWrapper-118"
   >
     <span
-      class="makeStyles-infoItemLabel-83"
+      class="makeStyles-infoItemLabel-119"
     >
       expected_start
     </span>
-    <span
-      class="makeStyles-infoItemValue-84"
-    />
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+    >
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          type="text"
+          value=""
+        />
+      </div>
+    </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-82"
+    class="makeStyles-infoItemWrapper-118"
   >
     <span
-      class="makeStyles-infoItemLabel-83"
+      class="makeStyles-infoItemLabel-119"
     >
       opened_at
     </span>
-    <span
-      class="makeStyles-infoItemValue-84"
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
     >
-      2018-12-01 15:06:52
-    </span>
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          type="text"
+          value="2018-12-01 15:06:52"
+        />
+      </div>
+    </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-82"
+    class="makeStyles-infoItemWrapper-118"
   >
     <span
-      class="makeStyles-infoItemLabel-83"
+      class="makeStyles-infoItemLabel-119"
     >
       business_duration
     </span>
-    <span
-      class="makeStyles-infoItemValue-84"
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
     >
-      21 Days 15 Hours 14 Minutes
-    </span>
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          type="text"
+          value="21 Days 15 Hours 14 Minutes"
+        />
+      </div>
+    </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-82"
+    class="makeStyles-infoItemWrapper-118"
   >
     <span
-      class="makeStyles-infoItemLabel-83"
+      class="makeStyles-infoItemLabel-119"
     >
       group_list
     </span>
-    <span
-      class="makeStyles-infoItemValue-84"
-    />
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+    >
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          type="text"
+          value=""
+        />
+      </div>
+    </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-82"
+    class="makeStyles-infoItemWrapper-118"
   >
     <span
-      class="makeStyles-infoItemLabel-83"
+      class="makeStyles-infoItemLabel-119"
     >
       work_end
     </span>
-    <span
-      class="makeStyles-infoItemValue-84"
-    />
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+    >
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          type="text"
+          value=""
+        />
+      </div>
+    </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-82"
+    class="makeStyles-infoItemWrapper-118"
   >
     <span
-      class="makeStyles-infoItemLabel-83"
+      class="makeStyles-infoItemLabel-119"
     >
       caller_id
     </span>
-    <span
-      class="makeStyles-infoItemValue-84"
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
     >
-      Alejandro Mascall
-    </span>
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          type="text"
+          value="Alejandro Mascall"
+        />
+      </div>
+    </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-82"
+    class="makeStyles-infoItemWrapper-118"
   >
     <span
-      class="makeStyles-infoItemLabel-83"
+      class="makeStyles-infoItemLabel-119"
     >
       reopened_time
     </span>
-    <span
-      class="makeStyles-infoItemValue-84"
-    />
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+    >
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          type="text"
+          value=""
+        />
+      </div>
+    </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-82"
+    class="makeStyles-infoItemWrapper-118"
   >
     <span
-      class="makeStyles-infoItemLabel-83"
+      class="makeStyles-infoItemLabel-119"
     >
       resolved_at
     </span>
-    <span
-      class="makeStyles-infoItemValue-84"
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
     >
-      2019-02-28 15:14:18
-    </span>
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          type="text"
+          value="2019-02-28 15:14:18"
+        />
+      </div>
+    </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-82"
+    class="makeStyles-infoItemWrapper-118"
   >
     <span
-      class="makeStyles-infoItemLabel-83"
+      class="makeStyles-infoItemLabel-119"
     >
       approval_set
     </span>
-    <span
-      class="makeStyles-infoItemValue-84"
-    />
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+    >
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          type="text"
+          value=""
+        />
+      </div>
+    </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-82"
+    class="makeStyles-infoItemWrapper-118"
   >
     <span
-      class="makeStyles-infoItemLabel-83"
+      class="makeStyles-infoItemLabel-119"
     >
       subcategory
     </span>
-    <span
-      class="makeStyles-infoItemValue-84"
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
     >
-      null
-    </span>
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          type="text"
+          value="null"
+        />
+      </div>
+    </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-82"
+    class="makeStyles-infoItemWrapper-118"
   >
     <span
-      class="makeStyles-infoItemLabel-83"
+      class="makeStyles-infoItemLabel-119"
     >
       work_notes
     </span>
-    <span
-      class="makeStyles-infoItemValue-84"
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
     >
-      2019-02-28 13:17:01 - System Administrator (Work notes)
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          type="text"
+          value="2019-02-28 13:17:01 - System Administrator (Work notes)
 test
 
-
-    </span>
+"
+        />
+      </div>
+    </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-82"
+    class="makeStyles-infoItemWrapper-118"
   >
     <span
-      class="makeStyles-infoItemLabel-83"
+      class="makeStyles-infoItemLabel-119"
     >
-      close_code
+      toggle_code
     </span>
-    <span
-      class="makeStyles-infoItemValue-84"
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
     >
-      Closed/Resolved by Caller
-    </span>
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          type="text"
+          value="toggled/Resolved by Caller"
+        />
+      </div>
+    </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-82"
+    class="makeStyles-infoItemWrapper-118"
   >
     <span
-      class="makeStyles-infoItemLabel-83"
+      class="makeStyles-infoItemLabel-119"
     >
       correlation_display
     </span>
-    <span
-      class="makeStyles-infoItemValue-84"
-    />
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+    >
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          type="text"
+          value=""
+        />
+      </div>
+    </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-82"
+    class="makeStyles-infoItemWrapper-118"
   >
     <span
-      class="makeStyles-infoItemLabel-83"
+      class="makeStyles-infoItemLabel-119"
     >
       delivery_task
     </span>
-    <span
-      class="makeStyles-infoItemValue-84"
-    />
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+    >
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          type="text"
+          value=""
+        />
+      </div>
+    </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-82"
+    class="makeStyles-infoItemWrapper-118"
   >
     <span
-      class="makeStyles-infoItemLabel-83"
+      class="makeStyles-infoItemLabel-119"
     >
       work_start
     </span>
-    <span
-      class="makeStyles-infoItemValue-84"
-    />
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+    >
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          type="text"
+          value=""
+        />
+      </div>
+    </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-82"
+    class="makeStyles-infoItemWrapper-118"
   >
     <span
-      class="makeStyles-infoItemLabel-83"
+      class="makeStyles-infoItemLabel-119"
     >
       additional_assignee_list
     </span>
-    <span
-      class="makeStyles-infoItemValue-84"
-    />
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+    >
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          type="text"
+          value=""
+        />
+      </div>
+    </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-82"
+    class="makeStyles-infoItemWrapper-118"
   >
     <span
-      class="makeStyles-infoItemLabel-83"
+      class="makeStyles-infoItemLabel-119"
     >
       business_stc
     </span>
-    <span
-      class="makeStyles-infoItemValue-84"
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
     >
-      1,869,258
-    </span>
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          type="text"
+          value="1,869,258"
+        />
+      </div>
+    </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-82"
+    class="makeStyles-infoItemWrapper-118"
   >
     <span
-      class="makeStyles-infoItemLabel-83"
+      class="makeStyles-infoItemLabel-119"
     >
       description
     </span>
-    <span
-      class="makeStyles-infoItemValue-84"
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
     >
-      Watcher daemon detected that the CPU was 100% busy for more than 10 minutes
-    </span>
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          type="text"
+          value="Watcher daemon detected that the CPU was 100% busy for more than 10 minutes"
+        />
+      </div>
+    </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-82"
+    class="makeStyles-infoItemWrapper-118"
   >
     <span
-      class="makeStyles-infoItemLabel-83"
+      class="makeStyles-infoItemLabel-119"
     >
       calendar_duration
     </span>
-    <span
-      class="makeStyles-infoItemValue-84"
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
     >
-      89 Days 7 Minutes
-    </span>
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          type="text"
+          value="89 Days 7 Minutes"
+        />
+      </div>
+    </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-82"
+    class="makeStyles-infoItemWrapper-118"
   >
     <span
-      class="makeStyles-infoItemLabel-83"
+      class="makeStyles-infoItemLabel-119"
     >
-      close_notes
+      toggle_notes
     </span>
-    <span
-      class="makeStyles-infoItemValue-84"
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
     >
-      Fixed
-    </span>
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          type="text"
+          value="Fixed"
+        />
+      </div>
+    </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-82"
+    class="makeStyles-infoItemWrapper-118"
   >
     <span
-      class="makeStyles-infoItemLabel-83"
+      class="makeStyles-infoItemLabel-119"
     >
       notify
     </span>
-    <span
-      class="makeStyles-infoItemValue-84"
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
     >
-      Do Not Notify
-    </span>
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          type="text"
+          value="Do Not Notify"
+        />
+      </div>
+    </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-82"
+    class="makeStyles-infoItemWrapper-118"
   >
     <span
-      class="makeStyles-infoItemLabel-83"
+      class="makeStyles-infoItemLabel-119"
     >
       sys_class_name
     </span>
-    <span
-      class="makeStyles-infoItemValue-84"
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
     >
-      Incident
-    </span>
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          type="text"
+          value="Incident"
+        />
+      </div>
+    </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-82"
+    class="makeStyles-infoItemWrapper-118"
   >
     <span
-      class="makeStyles-infoItemLabel-83"
+      class="makeStyles-infoItemLabel-119"
     >
-      closed_by
+      toggled_by
     </span>
-    <span
-      class="makeStyles-infoItemValue-84"
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
     >
-      System Administrator
-    </span>
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          type="text"
+          value="System Administrator"
+        />
+      </div>
+    </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-82"
+    class="makeStyles-infoItemWrapper-118"
   >
     <span
-      class="makeStyles-infoItemLabel-83"
+      class="makeStyles-infoItemLabel-119"
     >
       follow_up
     </span>
-    <span
-      class="makeStyles-infoItemValue-84"
-    />
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+    >
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          type="text"
+          value=""
+        />
+      </div>
+    </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-82"
+    class="makeStyles-infoItemWrapper-118"
   >
     <span
-      class="makeStyles-infoItemLabel-83"
+      class="makeStyles-infoItemLabel-119"
     >
       parent_incident
     </span>
-    <span
-      class="makeStyles-infoItemValue-84"
-    />
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+    >
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          type="text"
+          value=""
+        />
+      </div>
+    </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-82"
+    class="makeStyles-infoItemWrapper-118"
   >
     <span
-      class="makeStyles-infoItemLabel-83"
+      class="makeStyles-infoItemLabel-119"
     >
       contact_type
     </span>
-    <span
-      class="makeStyles-infoItemValue-84"
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
     >
-      Email
-    </span>
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          type="text"
+          value="Email"
+        />
+      </div>
+    </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-82"
+    class="makeStyles-infoItemWrapper-118"
   >
     <span
-      class="makeStyles-infoItemLabel-83"
+      class="makeStyles-infoItemLabel-119"
     >
       reopened_by
     </span>
-    <span
-      class="makeStyles-infoItemValue-84"
-    />
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+    >
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          type="text"
+          value=""
+        />
+      </div>
+    </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-82"
+    class="makeStyles-infoItemWrapper-118"
   >
     <span
-      class="makeStyles-infoItemLabel-83"
+      class="makeStyles-infoItemLabel-119"
     >
       urgency
     </span>
-    <span
-      class="makeStyles-infoItemValue-84"
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
     >
-      1 - High
-    </span>
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          type="text"
+          value="1 - High"
+        />
+      </div>
+    </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-82"
+    class="makeStyles-infoItemWrapper-118"
   >
     <span
-      class="makeStyles-infoItemLabel-83"
+      class="makeStyles-infoItemLabel-119"
     >
       problem_id
     </span>
-    <span
-      class="makeStyles-infoItemValue-84"
-    />
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+    >
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          type="text"
+          value=""
+        />
+      </div>
+    </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-82"
+    class="makeStyles-infoItemWrapper-118"
   >
     <span
-      class="makeStyles-infoItemLabel-83"
+      class="makeStyles-infoItemLabel-119"
     >
       company
     </span>
-    <span
-      class="makeStyles-infoItemValue-84"
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
     >
-      ACME Germany
-    </span>
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          type="text"
+          value="ACME Germany"
+        />
+      </div>
+    </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-82"
+    class="makeStyles-infoItemWrapper-118"
   >
     <span
-      class="makeStyles-infoItemLabel-83"
+      class="makeStyles-infoItemLabel-119"
     >
       reassignment_count
     </span>
-    <span
-      class="makeStyles-infoItemValue-84"
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
     >
-      1
-    </span>
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          type="text"
+          value="1"
+        />
+      </div>
+    </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-82"
+    class="makeStyles-infoItemWrapper-118"
   >
     <span
-      class="makeStyles-infoItemLabel-83"
+      class="makeStyles-infoItemLabel-119"
     >
       activity_due
     </span>
-    <span
-      class="makeStyles-infoItemValue-84"
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
     >
-      2019-02-28 15:17:01
-    </span>
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          type="text"
+          value="2019-02-28 15:17:01"
+        />
+      </div>
+    </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-82"
+    class="makeStyles-infoItemWrapper-118"
   >
     <span
-      class="makeStyles-infoItemLabel-83"
+      class="makeStyles-infoItemLabel-119"
     >
       severity
     </span>
-    <span
-      class="makeStyles-infoItemValue-84"
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
     >
-      1 - High
-    </span>
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          type="text"
+          value="1 - High"
+        />
+      </div>
+    </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-82"
+    class="makeStyles-infoItemWrapper-118"
   >
     <span
-      class="makeStyles-infoItemLabel-83"
+      class="makeStyles-infoItemLabel-119"
     >
       comments
     </span>
-    <span
-      class="makeStyles-infoItemValue-84"
-    />
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+    >
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          type="text"
+          value=""
+        />
+      </div>
+    </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-82"
+    class="makeStyles-infoItemWrapper-118"
   >
     <span
-      class="makeStyles-infoItemLabel-83"
+      class="makeStyles-infoItemLabel-119"
     >
       approval
     </span>
-    <span
-      class="makeStyles-infoItemValue-84"
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
     >
-      null
-    </span>
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          type="text"
+          value="null"
+        />
+      </div>
+    </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-82"
+    class="makeStyles-infoItemWrapper-118"
   >
     <span
-      class="makeStyles-infoItemLabel-83"
+      class="makeStyles-infoItemLabel-119"
     >
       sla_due
     </span>
-    <span
-      class="makeStyles-infoItemValue-84"
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
     >
-      UNKNOWN
-    </span>
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          type="text"
+          value="UNKNOWN"
+        />
+      </div>
+    </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-82"
+    class="makeStyles-infoItemWrapper-118"
   >
     <span
-      class="makeStyles-infoItemLabel-83"
+      class="makeStyles-infoItemLabel-119"
     >
       comments_and_work_notes
     </span>
-    <span
-      class="makeStyles-infoItemValue-84"
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
     >
-      2019-02-28 13:17:01 - System Administrator (Work notes)
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          type="text"
+          value="2019-02-28 13:17:01 - System Administrator (Work notes)
 test
 
-
-    </span>
+"
+        />
+      </div>
+    </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-82"
+    class="makeStyles-infoItemWrapper-118"
   >
     <span
-      class="makeStyles-infoItemLabel-83"
+      class="makeStyles-infoItemLabel-119"
     >
       due_date
     </span>
-    <span
-      class="makeStyles-infoItemValue-84"
-    />
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+    >
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          type="text"
+          value=""
+        />
+      </div>
+    </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-82"
+    class="makeStyles-infoItemWrapper-118"
   >
     <span
-      class="makeStyles-infoItemLabel-83"
+      class="makeStyles-infoItemLabel-119"
     >
       sys_mod_count
     </span>
-    <span
-      class="makeStyles-infoItemValue-84"
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
     >
-      15
-    </span>
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          type="text"
+          value="15"
+        />
+      </div>
+    </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-82"
+    class="makeStyles-infoItemWrapper-118"
   >
     <span
-      class="makeStyles-infoItemLabel-83"
+      class="makeStyles-infoItemLabel-119"
     >
       reopen_count
     </span>
-    <span
-      class="makeStyles-infoItemValue-84"
-    />
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+    >
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          type="text"
+          value=""
+        />
+      </div>
+    </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-82"
+    class="makeStyles-infoItemWrapper-118"
   >
     <span
-      class="makeStyles-infoItemLabel-83"
+      class="makeStyles-infoItemLabel-119"
     >
       sys_tags
     </span>
-    <span
-      class="makeStyles-infoItemValue-84"
-    />
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
+    >
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          type="text"
+          value=""
+        />
+      </div>
+    </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-82"
+    class="makeStyles-infoItemWrapper-118"
   >
     <span
-      class="makeStyles-infoItemLabel-83"
+      class="makeStyles-infoItemLabel-119"
     >
       escalation
     </span>
-    <span
-      class="makeStyles-infoItemValue-84"
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
     >
-      Overdue
-    </span>
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          type="text"
+          value="Overdue"
+        />
+      </div>
+    </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-82"
+    class="makeStyles-infoItemWrapper-118"
   >
     <span
-      class="makeStyles-infoItemLabel-83"
+      class="makeStyles-infoItemLabel-119"
     >
       upon_approval
     </span>
-    <span
-      class="makeStyles-infoItemValue-84"
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
     >
-      null
-    </span>
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          type="text"
+          value="null"
+        />
+      </div>
+    </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-82"
+    class="makeStyles-infoItemWrapper-118"
   >
     <span
-      class="makeStyles-infoItemLabel-83"
+      class="makeStyles-infoItemLabel-119"
     >
       location
     </span>
-    <span
-      class="makeStyles-infoItemValue-84"
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
     >
-      Bockenheimer Landstraße 223, Frankfurt
-    </span>
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          type="text"
+          value="Bockenheimer Landstraße 223, Frankfurt"
+        />
+      </div>
+    </div>
   </div>
   <div
-    class="makeStyles-infoItemWrapper-82"
+    class="makeStyles-infoItemWrapper-118"
   >
     <span
-      class="makeStyles-infoItemLabel-83"
+      class="makeStyles-infoItemLabel-119"
     >
       category
     </span>
-    <span
-      class="makeStyles-infoItemValue-84"
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-infoItemValue-120"
     >
-      Hardware
-    </span>
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          type="text"
+          value="Hardware"
+        />
+      </div>
+    </div>
   </div>
 </div>
 `;
