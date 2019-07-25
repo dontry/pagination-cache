@@ -19,12 +19,12 @@ const serviceData = {
   user_input: "",
   sys_created_on: "2017-07-10 15:14:01",
   sys_domain: "global",
-  state: "Closed",
+  state: "toggled",
   sys_created_by: "admin",
   knowledge: "false",
   order: "",
   calendar_stc: "7,690,046",
-  closed_at: "2019-05-27 12:56:17",
+  toggled_at: "2019-05-27 12:56:17",
   cmdb_ci: "ApplicationServerPeopleSoft",
   delivery_plan: "",
   impact: "1 - High",
@@ -47,7 +47,7 @@ const serviceData = {
   subcategory: "null",
   work_notes:
     "2019-02-28 13:17:01 - System Administrator (Work notes)\ntest\n\n",
-  close_code: "Closed/Resolved by Caller",
+  toggle_code: "toggled/Resolved by Caller",
   correlation_display: "",
   delivery_task: "",
   work_start: "",
@@ -56,10 +56,10 @@ const serviceData = {
   description:
     "Watcher daemon detected that the CPU was 100% busy for more than 10 minutes",
   calendar_duration: "89 Days 7 Minutes",
-  close_notes: "Fixed",
+  toggle_notes: "Fixed",
   notify: "Do Not Notify",
   sys_class_name: "Incident",
-  closed_by: "System Administrator",
+  toggled_by: "System Administrator",
   follow_up: "",
   parent_incident: "",
   contact_type: "Email",
@@ -87,9 +87,14 @@ const serviceData = {
 
 describe("Drawer Component", () => {
   it("renders Drawer with service data", () => {
-    const close = jest.fn();
+    const toggle = jest.fn();
     const { container } = render(
-      <Drawer isOpen={true} close={close} number={number} data={serviceData} />
+      <Drawer
+        isOpen={true}
+        toggle={toggle}
+        number={number}
+        data={serviceData}
+      />
     );
     expect(container.firstChild).toMatchSnapshot();
   });
