@@ -1,8 +1,8 @@
 import React, { Component } from "react";
 import "./App.css";
 import CardGrid from "./containers/CardGrid";
-import { clickPageIndex } from "./containers/Paginator/actions";
-import Paginator from "./containers/Paginator";
+import { clickPageIndex } from "./containers/Pagination/actions";
+import Pagination from "./containers/Pagination";
 import Drawer from "./containers/Drawer";
 import LoadingIndicator from "./components/LoadingIndicator";
 import { selectIsLoading } from "./containers/CardGrid/selectors";
@@ -21,7 +21,7 @@ class App extends Component {
         <div className="cardContainer">
           {isLoading ? <LoadingIndicator /> : <CardGrid />}
         </div>
-        <Paginator />
+        <Pagination />
         <Drawer />
       </div>
     );

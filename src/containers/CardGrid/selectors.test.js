@@ -1,6 +1,6 @@
 import { selectIsLoading } from "./selectors";
 import { initialState as cards } from "./reducers";
-import { initialState as pagination } from "../Paginator/reducers";
+import { initialState as pagination } from "../Pagination/reducers";
 
 describe("isLoading selector", () => {
   it("should return false when it's not fetching data", () => {

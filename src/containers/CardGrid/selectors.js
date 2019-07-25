@@ -1,5 +1,5 @@
 import { createSelector } from "reselect";
-import { selectPageIndex } from "../Paginator/selectors";
+import { selectPageIndex } from "../Pagination/selectors";
 import { CARD_COUNT_PER_PAGE } from "../../utils/constants";
 
 export const selectCards = state =>
