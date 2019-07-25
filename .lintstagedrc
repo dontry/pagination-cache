@@ -1,6 +1,6 @@
 {
-  "**/*.+(js|jsx)": "eslint --fix",
-  "**/*.+(js|jsx|json|yml|yaml|css|less|scss|ts|tsx|md|graphql|mdx)": [
+  "**/*.+(js|jsx|json|yml|yaml|ts|tsx|md|graphql|mdx)": [
+    "eslint --fix",
     "prettier --write",
     "git add"
   ]

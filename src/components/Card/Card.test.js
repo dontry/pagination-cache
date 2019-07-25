@@ -31,6 +31,6 @@ describe("Card Component", () => {
     const openCard = jest.fn();
     const { getByText } = render(<Card data={coreData} openCard={openCard} />);
     fireEvent.click(getByText("Learn more"));
-    expect(openCard).toBeCalled();
+    expect(openCard).toHaveBeenCalled();
   });
 });

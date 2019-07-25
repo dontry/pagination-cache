@@ -1,0 +1,15 @@
+.card {
+  display: flex;
+  min-width: 200px;
+  flex-direction: column;
+  align-items: flex-start;
+  text-align: left;
+}
+
+.card-subheading {
+  color: #acacac;
+}
+
+.learnmore .MuiButton-label {
+  font-weight: 600;
+}
