@@ -1,18 +1,17 @@
 import React, { Component } from "react";
 import "./App.css";
 import CardGrid from "./containers/CardGrid";
-import { fetchCards } from "./containers/CardGrid/actions";
+import { clickPageIndex } from "./containers/Paginator/actions";
 import Paginator from "./containers/Paginator";
 import Drawer from "./containers/Drawer";
-import { NUMBER_CARDS_PER_REQUEST } from "./utils/constants";
 import LoadingIndicator from "./components/LoadingIndicator";
-import { selectIsFetching } from "./containers/CardGrid/selectors";
+import { selectIsLoading } from "./containers/CardGrid/selectors";
 import { connect } from "react-redux";
 
 class App extends Component {
   componentDidMount() {
-    const { requestCards } = this.props;
-    requestCards(0, NUMBER_CARDS_PER_REQUEST);
+    const { initialize } = this.props;
+    initialize(0);
   }
 
   render() {
@@ -31,13 +30,12 @@ class App extends Component {
 
 const mapStateToProps = state => {
   return {
-    isLoading: selectIsFetching(state)
+    isLoading: selectIsLoading(state)
   };
 };
 
 const mapDispatchToProps = dispatch => ({
-  requestCards: (pageIndex, perPage) =>
-    dispatch(fetchCards({ pageIndex, perPage }))
+  initialize: () => dispatch(clickPageIndex(0))
 });
 
 export default connect(

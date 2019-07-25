@@ -1,0 +1,2 @@
+export const CARD_COUNT_PER_PAGE = 12;
+export const CARD_COUNT_PER_REQUEST = CARD_COUNT_PER_PAGE * 4;
