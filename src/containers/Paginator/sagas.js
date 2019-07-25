@@ -31,7 +31,6 @@ export function* fetchCards(action) {
     currentPageIndex
   });
 
-  console.log("should make request:", shouldMakeRequest);
   if (shouldMakeRequest) {
     yield put({ type: FETCH_CARDS_REQUEST });
     yield fetchCardsByPageIndex(fetchedPageIndex + 1, totalCount);

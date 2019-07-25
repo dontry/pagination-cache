@@ -34,7 +34,6 @@ export const selectIsLoading = createSelector(
   selectPageIndex,
   selectIsFetching,
   (cachedCount, pageIndex, isFetching) => {
-    console.log(`selectIsLoading: ${cachedCount}, ${pageIndex}, ${isFetching}`);
     const hasReachedLatestPage =
       cachedCount <= (pageIndex + 1) * CARD_COUNT_PER_PAGE;
     return isFetching && hasReachedLatestPage;

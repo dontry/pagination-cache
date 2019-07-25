@@ -49,7 +49,6 @@ describe("Paginator sagas", () => {
   it("should handle fetchCards generator", () => {
     const gen = cloneableGenerator(fetchCardsByPageIndex)(0, 0);
     api.get.mockImplementation(() => {
-      console.log("ggg");
       return Promise.resolve({
         headers: {
           "x-total-count": 100
