@@ -1,15 +1,17 @@
 import Paginator from "../../components/Paginator";
 import { connect } from "react-redux";
-import { selectPageIndex, selectPageCount } from "./selectors";
+import { selectPageIndex, selectTotalPageCount } from "./selectors";
+import { selectIsLoading } from "../CardGrid/selectors";
 import { clickPageIndex } from "./actions";
 
 const mapStateToProps = state => ({
   pageIndex: selectPageIndex(state),
-  pageCount: selectPageCount(state)
+  pageCount: selectTotalPageCount(state),
+  isLoading: selectIsLoading(state)
 });
 
 const mapDispatchToProps = dispatch => ({
-  selectPageIndex: pageIndex => dispatch(clickPageIndex(pageIndex))
+  onClickPage: pageIndex => dispatch(clickPageIndex(pageIndex))
 });
 
 export default connect(

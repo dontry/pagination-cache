@@ -20,15 +20,20 @@ const useStyles = makeStyles({
   }
 });
 
-const Paginator = ({ pageIndex, pageCount, selectPageIndex }) => {
+const Paginator = ({
+  pageIndex,
+  pageCount,
+  onClickPage,
+  isLoading = false
+}) => {
   const classes = useStyles();
 
   const handleClickNextPage = () => {
-    selectPageIndex(++pageIndex);
+    onClickPage(++pageIndex);
   };
 
   const handleClickPrevPage = () => {
-    selectPageIndex(--pageIndex);
+    onClickPage(--pageIndex);
   };
 
   return (
@@ -40,13 +45,14 @@ const Paginator = ({ pageIndex, pageCount, selectPageIndex }) => {
       >
         Prev
       </Button>
-      <Typography data-testid="pagination-info" variant="span">
-        Page {pageIndex} of {pageCount}
+      <Typography data-testid="pagination-info" variant="body1">
+        Page {pageIndex + 1} of {pageCount + 1}
       </Typography>
       <Button
         variant="contained"
         className={classes.button}
         onClick={handleClickNextPage}
+        disabled={isLoading}
       >
         Next
       </Button>
@@ -57,7 +63,8 @@ const Paginator = ({ pageIndex, pageCount, selectPageIndex }) => {
 Paginator.propTypes = {
   pageIndex: PropTypes.number,
   pageCount: PropTypes.number,
-  selectPageIndex: PropTypes.func
+  onClickPage: PropTypes.func,
+  isLoading: PropTypes.bool
 };
 
 export default Paginator;

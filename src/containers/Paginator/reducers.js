@@ -1,15 +1,15 @@
 import { combineReducers } from "redux";
-import { UPDATE_PAGE_INDEX } from "./actions";
-import { FETCH_CARDS_REQUEST, FETCH_CARDS_SUCCESS } from "../CardGrid/actions";
-import { NUMBER_PER_PAGE } from "../../utils/constants";
+import { UPDATE_PAGE_INDEX, UPDATE_FETCHED_PAGE_INDEX } from "./actions";
 
-const initialState = {
+export const initialState = {
   pageIndex: 0,
-  pageCount: 0,
   fetchedPageIndex: 0
 };
 
-const pageIndex = (state = initialState.pageIndex, { type, payload }) => {
+export const pageIndex = (
+  state = initialState.pageIndex,
+  { type, payload }
+) => {
   switch (type) {
     case UPDATE_PAGE_INDEX:
       return Math.max(0, payload.pageIndex);
@@ -18,22 +18,13 @@ const pageIndex = (state = initialState.pageIndex, { type, payload }) => {
   }
 };
 
-const pageCount = (state = initialState.pageCount, { type, payload }) => {
-  switch (type) {
-    case FETCH_CARDS_SUCCESS:
-      return payload.total / NUMBER_PER_PAGE;
-    default:
-      return state;
-  }
-};
-
-const fetchedPageIndex = (
+export const fetchedPageIndex = (
   state = initialState.fetchedPageIndex,
   { type, payload }
 ) => {
   switch (type) {
-    case FETCH_CARDS_REQUEST:
-      return 0;
+    case UPDATE_FETCHED_PAGE_INDEX:
+      return payload.pageIndex;
     default:
       return state;
   }
@@ -41,6 +32,5 @@ const fetchedPageIndex = (
 
 export default combineReducers({
   pageIndex,
-  pageCount,
   fetchedPageIndex
 });
