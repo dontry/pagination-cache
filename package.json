@@ -19,7 +19,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "test:coverage": "jest test --coverage",
+    "test:coverage": "npm run test -- --coverage",
     "lint": "eslint src",
     "prettier": "./node_modules/.bin/prettier  \"**/*.+(js|jsx|json|yml|yaml|css|less|scss|ts|tsx|md|mdx|graphql|vue)\"",
     "format": "npm run prettier -- --write",
@@ -54,7 +54,9 @@
     "husky": "^3.0.1",
     "lint-staged": "^9.2.0",
     "prettier": "^1.18.2",
-    "stylelint": "^10.1.0"
+    "stylelint": "^10.1.0",
+    "stylelint-config-recommended": "^2.2.0",
+    "stylelint-config-standard": "^18.3.0"
   },
   "config": {
     "commitizen": {
