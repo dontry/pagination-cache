@@ -2,6 +2,8 @@
 
 The goal is to build a cache of items on the front-end to achieve instant pagination.
 
+**Demo:** [https://competent-kepler-fa72d8.netlify.com/](https://competent-kepler-fa72d8.netlify.com/)
+
 ## Quick start
 
 1. Clone this repo using `git clone https://github.com/dontry/pagination-cache`
